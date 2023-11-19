@@ -13,7 +13,7 @@
 # git clone https://github.com/AXOM959/BACM.git
 # cd BACM
 # chmod +x *
-# python Fb_Enc.py
+# python MMSP.py
 
 Cloning Tools Wifi Work 100% and Data Work 100%
 1.1.1.1vpn 
